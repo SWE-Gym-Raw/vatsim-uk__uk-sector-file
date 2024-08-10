@@ -6,9 +6,6 @@ London Control:London Control:126.780:LWN:L:LON:CTR:-:-:0301:0377:: ;S11
 ;Central
 London Control S27:London Control:129.205:L27:L:LON:CTR:-:-:0301:0377::
 
-;South
-London Control S2:London Control:127.430:L2:L:LON:CTR:-:-:0301:0377::
-
 ;TC Midlands
 London Control TC WELIN E:London Control:128.480:TCWE:L:LTC:CTR:-:-:0301:0377::
 
